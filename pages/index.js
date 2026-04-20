@@ -2,7 +2,7 @@ function Home() {
   return (
     <>
       <div>
-        <h1>Sistema</h1>
+        <h1>Tab News</h1>
         <p>feito por José Tiago</p>
       </div>
     </>
